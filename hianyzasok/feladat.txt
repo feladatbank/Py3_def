@@ -1,0 +1,38 @@
+1. Tárolja el a fájlok tartalmát olyan adatszerkezetben, amivel a további feladatok
+megoldhatók!
+2. Határozza meg, és írja ki a képernyőre, hogy a diákok összesen hány órát mulasztottak
+ebben a hónapban.
+3. Kérjen be a felhasználótól
+egy napot 1 és 30 között
+egy tanuló nevét
+4. Írja ki a
+képernyőre, hogy az előző feladatban bekért tanulónak volt-e hiányzása! A „A
+tanuló hiányzott szeptemberben" vagy ,,A tanuló nem hiányzott
+szeptemberben" szöveget jelenítse meg
+5. Írja ki a képernyőre azon tanulók nevét és osztályát a minta szerint, akik a 3. feladatban
+bekért napon hiányoztak! (Ha a 3. feladatot nem tudta megoldani, akkor a 19-ei nappal
+dolgozzon!) Ha nem volt hiányzó, akkor a ,,Nem volt hiányzó" szöveget jelenítse
+meg!
+
+
+minta
+
+
+2. feladat 
+      Összes mulasztott órák száma: 549.
+3. feladat: 
+Kérem adjon meg egy napot: 19
+Tanuló neve: Kis Katalin
+4. feladat 
+A tanuló hiányzott szeptemberben  
+5. feladat: Hiányzók 2017.09.19-n:
+               Fekete Viktória 3a 
+               Fekete Zsolt 4a    
+               Fodor Éva 4a       
+               Hegedűs Andrea 6b
+               Katona Ágnes 7b
+               Lukács Eszter 5a
+               Nagy Mihály 6b
+               Pintér Ferenc 3a
+               Szilágyi Ildikó 3a
+               Török Viktória 6a
