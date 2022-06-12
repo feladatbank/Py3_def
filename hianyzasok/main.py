@@ -26,15 +26,6 @@ def osszes_mulasztas(lista):
 osszes_mulasztas = osszes_mulasztas(lista)
 print(osszes_mulasztas)
 
-#3.feladat
-def nap_nev_bekeres(lista, nap, nev):
-  a = nap
-  b = nev
-  return a, b
-
-nap_nev_bekeres = nap_nev_bekeres(lista, "10", "Kis Katalin")
-#print(nap_nev_bekeres)
-
 #4. feladat 
 def nev_hianyzas(lista, nev):
   for sor in lista:
