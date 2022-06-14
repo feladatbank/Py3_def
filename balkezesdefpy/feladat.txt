@@ -1,0 +1,45 @@
+A balkezesek.csv UTF-8 kódolású forrásállomány soraiban a következő sorrendben
+találja meg az adatokat:
+
+1. Készítsen konzolalkalmazást (projektet) a következő feladatok megoldásához,
+    amelynek forráskódját balkezesek néven mentse el!
+2. Olvassa be a balkezesek.csv állomány sorait és tárolja az adatokat egy olyan
+    összetett adatszerkezetben (pl. vektor, lista stb.), amely használatával a további
+feladatok megoldhatók! Ügyeljen arra, hogy az állomány első sora az adatok fejlécét
+    tartalmazza!
+3. Határozza meg és írja ki a képernyőre a minta szerint, hogy hány adatsor található a
+    forrásállományban!
+4. Határozza meg, és írja ki a minta szerint, azoknak a játékosoknak a nevét és
+    testmagasságát centiméterben (1 inch = 2,54 cm), akik utoljára 1999 októberében
+    léptek pályára! Az eredményt egy tizedesjegyre kerekítve írja ki a képernyőre!
+5. Kérjen be a felhasználótól egy évszámot a minta szerint! Az évszámra teljesülni kell
+    az 1990 <= évszám <= 1999 feltételnek, amennyiben a felhasználó hibás évszámot
+    adott meg, írja ki a „Hibás adat, kérek egy 1990 és 1999 közötti évszámot!"
+    hibaüzenetet és kérje be újra! Feltételezheti, hogy az inputadat konvertálható pozitív
+    egész számra.
+
+
+kimenet.:
+
+3. feladat: 386
+4. feladat:
+        Paul Assenmacher 190.5
+        Brent Billingsley 188.0
+        Billy Brewer 185.4
+        Derrin Ebert 190.5
+        Reggie Jefferson 193.0
+        Doug Johns 188.0
+        Tim Kubinski 193.0
+        Alvin Morman 190.5
+        J. R. Phillips 188.0
+        Roberto Ramirez 182.9
+        Anthony Shumaker 195.6
+        Steve Sinclair 188.0
+        Darryl Strawberry 198.1
+5. feladat:
+Kérek egy 1990 és 1999 közötti évszámot!: 1900
+Hibás adat!Kérek egy 1990 és 1999 közötti évszámot!: 1988
+Hibás adat!Kérek egy 1990 és 1999 közötti évszámot!: 1989
+Hibás adat!Kérek egy 1990 és 1999 közötti évszámot!: 2000
+Hibás adat!Kérek egy 1990 és 1999 közötti évszámot!: 2050
+Hibás adat!Kérek egy 1990 és 1999 közötti évszámot!: 1995
